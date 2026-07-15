@@ -14,9 +14,6 @@ README.md
 - sessionStorage
 ## Instalación
 https://aduana-4-0-dashboard.vercel.app/
-cd aduana-4.0
-npm install
-npm run dev
 ## Roles disponibles
 - Ciudadano
 - Funcionario de Aduana
