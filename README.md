@@ -2,6 +2,8 @@
 Prototipo funcional de alta fidelidad para digitalizar
 los procesos del Paso Fronterizo Los Libertadores.
 
+Normas de Referencia: IEEE 829-2008, ISO/IEC 29119, ISO/IEC 25010.
+
 ## Integrantes
 - Matias Azocar
 - Renato Zuñiga
